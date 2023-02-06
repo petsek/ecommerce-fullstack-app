@@ -1,13 +1,9 @@
-// import { useGetAllProductsQuery } from "../features/productsAPI";
-import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate } from 'react-router-dom'
 
 import { addToCart } from "../features/cartSlice";
-import { productsFetch } from "../features/productsSlice";
 
 const Home = () => {
-  // const { data, error, isLoading } = useGetAllProductsQuery();
   const products = useSelector((state) => state.products)
 
   const data = products.items;
