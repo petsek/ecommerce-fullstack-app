@@ -1,7 +1,7 @@
 # ecommerce-fullstack-app
 
 ## Description
-The aim of this project was to design a full stack e-commerce web app having the user interface communicating with the API. My web app is called "Fruit From Your Tree" a fictional web shop selling fruit trees.
+The aim of this project was to design a full stack e-commerce web app, having the user interface communicating with the API. My web app is called "Fruit From Your Tree" a fictional web shop selling fruit trees.
 
 ## Technologies:
 ### Backend
